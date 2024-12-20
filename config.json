@@ -1,6 +1,10 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Internet Explorer 14",
+    "subTitle":"欢迎，收藏家。",
+    "avatarUrl":"https://cdn.luogu.com.cn/upload/usericon/1303746.png",
+    "GMEEK_VERSION":"last",
+    "needComment":1,
+    "UTC":8,
+    "i18n":"CN",
+    "startSite":"12/20/2024"
 }
